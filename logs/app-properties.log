@@ -1,0 +1,534 @@
+[INFO ] 20-04-2022 09:38:20 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 09:38:21 [main] Log - Go to QA page
+[INFO ] 20-04-2022 09:38:22 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 09:52:32 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 09:52:34 [main] Log - Go to QA page
+[INFO ] 20-04-2022 09:52:37 [main] Log - Register account
+[INFO ] 20-04-2022 09:52:38 [main] Log - Go to Login Page
+[INFO ] 20-04-2022 09:52:39 [main] Log - Login with created account
+[INFO ] 20-04-2022 09:52:41 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 09:53:09 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 09:53:10 [main] Log - Go to QA page
+[INFO ] 20-04-2022 09:53:13 [main] Log - Register account
+[INFO ] 20-04-2022 09:53:14 [main] Log - Go to Login Page
+[INFO ] 20-04-2022 09:53:16 [main] Log - Login with created account
+[INFO ] 20-04-2022 09:53:17 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 09:55:16 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 09:55:18 [main] Log - Go to QA page
+[INFO ] 20-04-2022 09:55:20 [main] Log - Register account
+[INFO ] 20-04-2022 09:55:21 [main] Log - Go to Login Page
+[INFO ] 20-04-2022 09:55:23 [main] Log - Login with created account
+[INFO ] 20-04-2022 09:55:25 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 09:55:54 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 09:55:55 [main] Log - Go to QA page
+[INFO ] 20-04-2022 09:55:58 [main] Log - Register account
+[INFO ] 20-04-2022 09:55:59 [main] Log - Go to Login Page
+[INFO ] 20-04-2022 09:56:01 [main] Log - Login with created account
+[INFO ] 20-04-2022 09:56:04 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 09:57:32 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 09:57:33 [main] Log - Go to QA page
+[INFO ] 20-04-2022 09:57:36 [main] Log - Register account
+[INFO ] 20-04-2022 09:57:37 [main] Log - Go to Login Page
+[INFO ] 20-04-2022 09:57:39 [main] Log - Login with created account
+[INFO ] 20-04-2022 09:57:43 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 09:58:11 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 09:58:13 [main] Log - Go to QA page
+[INFO ] 20-04-2022 09:58:16 [main] Log - Register account
+[INFO ] 20-04-2022 09:58:17 [main] Log - Go to Login Page
+[INFO ] 20-04-2022 09:58:18 [main] Log - Login with created account
+[INFO ] 20-04-2022 09:58:22 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 10:03:45 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 10:03:46 [main] Log - Go to QA page
+[INFO ] 20-04-2022 10:03:49 [main] Log - Register account
+[INFO ] 20-04-2022 10:03:50 [main] Log - Go to Login Page
+[INFO ] 20-04-2022 10:03:51 [main] Log - Login with created account
+[INFO ] 20-04-2022 10:03:56 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 10:04:25 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 10:04:26 [main] Log - Go to QA page
+[INFO ] 20-04-2022 10:04:29 [main] Log - Register account
+[INFO ] 20-04-2022 10:04:30 [main] Log - Go to Login Page
+[INFO ] 20-04-2022 10:04:31 [main] Log - Login with created account
+[INFO ] 20-04-2022 10:04:33 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 10:04:43 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 10:04:44 [main] Log - Go to QA page
+[INFO ] 20-04-2022 10:04:47 [main] Log - Register account
+[INFO ] 20-04-2022 10:04:47 [main] Log - Go to Login Page
+[INFO ] 20-04-2022 10:04:49 [main] Log - Login with created account
+[INFO ] 20-04-2022 10:04:53 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 10:18:48 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 10:18:49 [main] Log - Go to Register page
+[INFO ] 20-04-2022 10:18:50 [main] Log - Register account
+[INFO ] 20-04-2022 10:18:51 [main] Log - Go to Login page
+[INFO ] 20-04-2022 10:18:53 [main] Log - Login with created account
+[INFO ] 20-04-2022 10:18:53 [main] Log - Go to Book ticket page
+[INFO ] 20-04-2022 10:18:54 [main] Log - Book a ticket with information of csv data
+[INFO ] 20-04-2022 10:18:55 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 10:18:58 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 10:18:58 [main] Log - Go to Register page
+[INFO ] 20-04-2022 10:19:00 [main] Log - Register account
+[INFO ] 20-04-2022 10:19:00 [main] Log - Go to Login page
+[INFO ] 20-04-2022 10:19:02 [main] Log - Login with created account
+[INFO ] 20-04-2022 10:19:03 [main] Log - Go to Book ticket page
+[INFO ] 20-04-2022 10:19:04 [main] Log - Book a ticket with information of csv data
+[INFO ] 20-04-2022 10:19:05 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 10:19:08 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 10:19:08 [main] Log - Go to Register page
+[INFO ] 20-04-2022 10:19:10 [main] Log - Register account
+[INFO ] 20-04-2022 10:19:10 [main] Log - Go to Login page
+[INFO ] 20-04-2022 10:19:12 [main] Log - Login with created account
+[INFO ] 20-04-2022 10:19:13 [main] Log - Go to Book ticket page
+[INFO ] 20-04-2022 10:19:14 [main] Log - Book a ticket with information of csv data
+[INFO ] 20-04-2022 10:19:15 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 10:19:17 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 10:19:18 [main] Log - Go to Register page
+[INFO ] 20-04-2022 10:19:19 [main] Log - Register account
+[INFO ] 20-04-2022 10:19:20 [main] Log - Go to Login page
+[INFO ] 20-04-2022 10:19:22 [main] Log - Login with created account
+[INFO ] 20-04-2022 10:19:22 [main] Log - Go to Book ticket page
+[INFO ] 20-04-2022 10:19:24 [main] Log - Book a ticket with information of csv data
+[INFO ] 20-04-2022 10:19:24 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 10:19:27 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 10:19:28 [main] Log - Go to Register page
+[INFO ] 20-04-2022 10:19:29 [main] Log - Register account
+[INFO ] 20-04-2022 10:19:30 [main] Log - Go to Login page
+[INFO ] 20-04-2022 10:19:32 [main] Log - Login with created account
+[INFO ] 20-04-2022 10:19:32 [main] Log - Go to Book ticket page
+[INFO ] 20-04-2022 10:19:34 [main] Log - Book a ticket with information of csv data
+[INFO ] 20-04-2022 10:19:34 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 10:19:37 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 10:19:37 [main] Log - Go to Register page
+[INFO ] 20-04-2022 10:19:39 [main] Log - Register account
+[INFO ] 20-04-2022 10:19:40 [main] Log - Go to Login page
+[INFO ] 20-04-2022 10:19:41 [main] Log - Login with created account
+[INFO ] 20-04-2022 10:19:42 [main] Log - Go to Book ticket page
+[INFO ] 20-04-2022 10:19:43 [main] Log - Book a ticket with information of csv data
+[INFO ] 20-04-2022 10:19:44 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 10:19:47 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 10:19:48 [main] Log - Go to Register page
+[INFO ] 20-04-2022 10:19:49 [main] Log - Register account
+[INFO ] 20-04-2022 10:19:50 [main] Log - Go to Login page
+[INFO ] 20-04-2022 10:19:52 [main] Log - Login with created account
+[INFO ] 20-04-2022 10:19:53 [main] Log - Go to Book ticket page
+[INFO ] 20-04-2022 10:19:54 [main] Log - Book a ticket with information of csv data
+[INFO ] 20-04-2022 10:19:54 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 10:19:57 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 10:19:58 [main] Log - Go to Register page
+[INFO ] 20-04-2022 10:19:58 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 10:28:52 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 10:28:53 [main] Log - Go to Register page
+[INFO ] 20-04-2022 10:28:54 [main] Log - Register account
+[INFO ] 20-04-2022 10:28:55 [main] Log - Go to Login page
+[INFO ] 20-04-2022 10:28:57 [main] Log - Login with created account
+[INFO ] 20-04-2022 10:28:57 [main] Log - Go to Book ticket page
+[INFO ] 20-04-2022 10:28:59 [main] Log - Book a ticket with information of csv data
+[INFO ] 20-04-2022 10:28:59 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 10:29:02 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 10:29:03 [main] Log - Go to Register page
+[INFO ] 20-04-2022 10:29:03 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 10:29:06 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 10:29:07 [main] Log - Go to Register page
+[INFO ] 20-04-2022 10:29:07 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 10:29:38 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 10:29:38 [main] Log - Go to Register page
+[INFO ] 20-04-2022 10:29:40 [main] Log - Register account
+[INFO ] 20-04-2022 10:29:40 [main] Log - Go to Login page
+[INFO ] 20-04-2022 10:29:42 [main] Log - Login with created account
+[INFO ] 20-04-2022 10:29:43 [main] Log - Go to Book ticket page
+[INFO ] 20-04-2022 10:29:44 [main] Log - Book a ticket with information of csv data
+[INFO ] 20-04-2022 10:29:45 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 10:29:48 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 10:29:48 [main] Log - Go to Register page
+[INFO ] 20-04-2022 10:29:49 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 10:29:52 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 10:29:52 [main] Log - Go to Register page
+[INFO ] 20-04-2022 10:29:53 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 10:30:36 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 10:30:37 [main] Log - Go to Register page
+[INFO ] 20-04-2022 10:30:38 [main] Log - Register account
+[INFO ] 20-04-2022 10:30:40 [main] Log - Go to Login page
+[INFO ] 20-04-2022 10:30:41 [main] Log - Login with created account
+[INFO ] 20-04-2022 10:30:43 [main] Log - Go to Book ticket page
+[INFO ] 20-04-2022 10:30:44 [main] Log - Book a ticket with information of csv data
+[INFO ] 20-04-2022 10:30:45 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 10:30:47 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 10:30:48 [main] Log - Go to Register page
+[INFO ] 20-04-2022 10:30:49 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 10:30:51 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 10:30:52 [main] Log - Go to Register page
+[INFO ] 20-04-2022 10:30:53 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 10:31:19 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 10:31:19 [main] Log - Go to Register page
+[INFO ] 20-04-2022 10:31:21 [main] Log - Register account
+[INFO ] 20-04-2022 10:31:21 [main] Log - Go to Login page
+[INFO ] 20-04-2022 10:31:23 [main] Log - Login with created account
+[INFO ] 20-04-2022 10:31:24 [main] Log - Go to Book ticket page
+[INFO ] 20-04-2022 10:31:25 [main] Log - Book a ticket with information of csv data
+[INFO ] 20-04-2022 10:31:26 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 10:31:51 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 10:31:52 [main] Log - Go to Register page
+[INFO ] 20-04-2022 10:31:53 [main] Log - Register account
+[INFO ] 20-04-2022 10:31:54 [main] Log - Go to Login page
+[INFO ] 20-04-2022 10:31:56 [main] Log - Login with created account
+[INFO ] 20-04-2022 10:31:56 [main] Log - Go to Book ticket page
+[INFO ] 20-04-2022 10:31:58 [main] Log - Book a ticket with information of csv data
+[INFO ] 20-04-2022 10:31:59 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 10:32:49 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 10:32:50 [main] Log - Go to Register page
+[INFO ] 20-04-2022 10:32:51 [main] Log - Register account
+[INFO ] 20-04-2022 10:32:52 [main] Log - Go to Login page
+[INFO ] 20-04-2022 10:32:54 [main] Log - Login with created account
+[INFO ] 20-04-2022 10:32:54 [main] Log - Go to Book ticket page
+[INFO ] 20-04-2022 10:32:56 [main] Log - Book a ticket with information of csv data
+[INFO ] 20-04-2022 10:32:56 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 10:33:23 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 10:33:23 [main] Log - Go to Register page
+[INFO ] 20-04-2022 10:33:25 [main] Log - Register account
+[INFO ] 20-04-2022 10:33:26 [main] Log - Go to Login page
+[INFO ] 20-04-2022 10:33:28 [main] Log - Login with created account
+[INFO ] 20-04-2022 10:33:28 [main] Log - Go to Book ticket page
+[INFO ] 20-04-2022 10:33:30 [main] Log - Book a ticket with information of csv data
+[INFO ] 20-04-2022 10:33:30 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 10:37:22 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 10:37:23 [main] Log - Go to Register page
+[INFO ] 20-04-2022 10:37:24 [main] Log - Register account
+[INFO ] 20-04-2022 10:37:25 [main] Log - Go to Login page
+[INFO ] 20-04-2022 10:37:27 [main] Log - Login with created account
+[INFO ] 20-04-2022 10:37:28 [main] Log - Go to Book ticket page
+[INFO ] 20-04-2022 10:37:29 [main] Log - Book a ticket with information of csv data
+[INFO ] 20-04-2022 10:37:30 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 10:38:21 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 10:38:22 [main] Log - Go to Register page
+[INFO ] 20-04-2022 10:38:24 [main] Log - Register account
+[INFO ] 20-04-2022 10:38:24 [main] Log - Go to Login page
+[INFO ] 20-04-2022 10:38:26 [main] Log - Login with created account
+[INFO ] 20-04-2022 10:38:27 [main] Log - Go to Book ticket page
+[INFO ] 20-04-2022 10:38:28 [main] Log - Book a ticket with information of csv data
+[INFO ] 20-04-2022 10:38:33 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 10:39:42 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 10:39:42 [main] Log - Go to Register page
+[INFO ] 20-04-2022 10:39:44 [main] Log - Register account
+[INFO ] 20-04-2022 10:39:45 [main] Log - Go to Login page
+[INFO ] 20-04-2022 10:39:47 [main] Log - Login with created account
+[INFO ] 20-04-2022 10:39:48 [main] Log - Go to Book ticket page
+[INFO ] 20-04-2022 10:39:49 [main] Log - Book a ticket with information of csv data
+[INFO ] 20-04-2022 10:39:54 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 10:42:27 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 10:42:27 [main] Log - Go to Register page
+[INFO ] 20-04-2022 10:42:29 [main] Log - Register account
+[INFO ] 20-04-2022 10:42:30 [main] Log - Go to Login page
+[INFO ] 20-04-2022 10:42:32 [main] Log - Login with created account
+[INFO ] 20-04-2022 10:42:32 [main] Log - Go to Book ticket page
+[INFO ] 20-04-2022 10:42:34 [main] Log - Book a ticket with information of csv data
+[INFO ] 20-04-2022 10:42:46 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 10:43:39 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 10:43:39 [main] Log - Go to Register page
+[INFO ] 20-04-2022 10:43:41 [main] Log - Register account
+[INFO ] 20-04-2022 10:43:42 [main] Log - Go to Login page
+[INFO ] 20-04-2022 10:43:43 [main] Log - Login with created account
+[INFO ] 20-04-2022 10:43:44 [main] Log - Go to Book ticket page
+[INFO ] 20-04-2022 10:43:46 [main] Log - Book a ticket with information of csv data
+[INFO ] 20-04-2022 10:43:48 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 10:44:37 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 10:44:38 [main] Log - Go to Register page
+[INFO ] 20-04-2022 10:44:40 [main] Log - Register account
+[INFO ] 20-04-2022 10:44:40 [main] Log - Go to Login page
+[INFO ] 20-04-2022 10:44:42 [main] Log - Login with created account
+[INFO ] 20-04-2022 10:44:43 [main] Log - Go to Book ticket page
+[INFO ] 20-04-2022 10:44:45 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 10:45:00 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 10:45:01 [main] Log - Go to Register page
+[INFO ] 20-04-2022 10:45:02 [main] Log - Register account
+[INFO ] 20-04-2022 10:45:03 [main] Log - Go to Login page
+[INFO ] 20-04-2022 10:45:05 [main] Log - Login with created account
+[INFO ] 20-04-2022 10:45:06 [main] Log - Go to Book ticket page
+[INFO ] 20-04-2022 10:45:07 [main] Log - Book a ticket with information of csv data
+[INFO ] 20-04-2022 10:45:11 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 10:45:24 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 10:45:24 [main] Log - Go to Register page
+[INFO ] 20-04-2022 10:45:26 [main] Log - Register account
+[INFO ] 20-04-2022 10:45:27 [main] Log - Go to Login page
+[INFO ] 20-04-2022 10:45:29 [main] Log - Login with created account
+[INFO ] 20-04-2022 10:45:30 [main] Log - Go to Book ticket page
+[INFO ] 20-04-2022 10:45:31 [main] Log - Book a ticket with information of csv data
+[INFO ] 20-04-2022 10:45:34 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 10:46:44 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 10:46:45 [main] Log - Go to Register page
+[INFO ] 20-04-2022 10:46:46 [main] Log - Register account
+[INFO ] 20-04-2022 10:46:47 [main] Log - Go to Login page
+[INFO ] 20-04-2022 10:46:49 [main] Log - Login with created account
+[INFO ] 20-04-2022 10:46:50 [main] Log - Go to Book ticket page
+[INFO ] 20-04-2022 10:46:51 [main] Log - Book a ticket with information of csv data
+[INFO ] 20-04-2022 10:47:09 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 10:50:53 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 10:50:54 [main] Log - Go to Register page
+[INFO ] 20-04-2022 10:50:55 [main] Log - Register account
+[INFO ] 20-04-2022 10:50:56 [main] Log - Go to Login page
+[INFO ] 20-04-2022 10:50:57 [main] Log - Login with created account
+[INFO ] 20-04-2022 10:50:58 [main] Log - Go to Book ticket page
+[INFO ] 20-04-2022 10:51:00 [main] Log - Book a ticket with information of csv data
+[INFO ] 20-04-2022 10:51:17 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 10:58:30 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 10:58:31 [main] Log - Go to Register page
+[INFO ] 20-04-2022 10:58:32 [main] Log - Register account
+[INFO ] 20-04-2022 10:58:33 [main] Log - Go to Login page
+[INFO ] 20-04-2022 10:58:35 [main] Log - Login with created account
+[INFO ] 20-04-2022 10:58:36 [main] Log - Go to Book ticket page
+[INFO ] 20-04-2022 10:58:37 [main] Log - Book a ticket with information of csv data
+[INFO ] 20-04-2022 10:58:55 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 10:59:40 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 10:59:41 [main] Log - Go to Register page
+[INFO ] 20-04-2022 10:59:42 [main] Log - Register account
+[INFO ] 20-04-2022 10:59:43 [main] Log - Go to Login page
+[INFO ] 20-04-2022 10:59:45 [main] Log - Login with created account
+[INFO ] 20-04-2022 10:59:45 [main] Log - Go to Book ticket page
+[INFO ] 20-04-2022 10:59:47 [main] Log - Book a ticket with information of csv data
+[INFO ] 20-04-2022 11:00:04 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 11:00:07 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 11:00:08 [main] Log - Go to Register page
+[INFO ] 20-04-2022 11:00:09 [main] Log - Register account
+[INFO ] 20-04-2022 11:00:10 [main] Log - Go to Login page
+[INFO ] 20-04-2022 11:00:12 [main] Log - Login with created account
+[INFO ] 20-04-2022 11:00:12 [main] Log - Go to Book ticket page
+[INFO ] 20-04-2022 11:00:14 [main] Log - Book a ticket with information of csv data
+[INFO ] 20-04-2022 11:00:32 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 11:00:35 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 11:00:36 [main] Log - Go to Register page
+[INFO ] 20-04-2022 11:00:37 [main] Log - Register account
+[INFO ] 20-04-2022 11:00:38 [main] Log - Go to Login page
+[INFO ] 20-04-2022 11:00:39 [main] Log - Login with created account
+[INFO ] 20-04-2022 11:00:40 [main] Log - Go to Book ticket page
+[INFO ] 20-04-2022 11:00:42 [main] Log - Book a ticket with information of csv data
+[INFO ] 20-04-2022 11:00:59 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 11:01:34 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 11:01:35 [main] Log - Go to QA page
+[INFO ] 20-04-2022 11:01:38 [main] Log - Register account
+[INFO ] 20-04-2022 11:01:39 [main] Log - Go to Login Page
+[INFO ] 20-04-2022 11:01:40 [main] Log - Login with created account
+[INFO ] 20-04-2022 11:01:45 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 11:11:50 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 11:11:50 [main] Log - Go to QA page
+[INFO ] 20-04-2022 11:11:54 [main] Log - Register account
+[INFO ] 20-04-2022 11:11:54 [main] Log - Go to Login Page
+[INFO ] 20-04-2022 11:11:56 [main] Log - Login with created account
+[INFO ] 20-04-2022 11:12:01 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 11:12:10 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 11:12:11 [main] Log - Go to Register page
+[INFO ] 20-04-2022 11:12:12 [main] Log - Register account
+[INFO ] 20-04-2022 11:12:13 [main] Log - Go to Login page
+[INFO ] 20-04-2022 11:12:15 [main] Log - Login with created account
+[INFO ] 20-04-2022 11:12:16 [main] Log - Go to Book ticket page
+[INFO ] 20-04-2022 11:12:18 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 11:12:21 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 11:12:21 [main] Log - Go to Register page
+[INFO ] 20-04-2022 11:12:23 [main] Log - Register account
+[INFO ] 20-04-2022 11:12:23 [main] Log - Go to Login page
+[INFO ] 20-04-2022 11:12:25 [main] Log - Login with created account
+[INFO ] 20-04-2022 11:12:26 [main] Log - Go to Book ticket page
+[INFO ] 20-04-2022 11:12:28 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 11:12:31 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 11:12:31 [main] Log - Go to Register page
+[INFO ] 20-04-2022 11:12:33 [main] Log - Register account
+[INFO ] 20-04-2022 11:12:33 [main] Log - Go to Login page
+[INFO ] 20-04-2022 11:12:35 [main] Log - Login with created account
+[INFO ] 20-04-2022 11:12:36 [main] Log - Go to Book ticket page
+[INFO ] 20-04-2022 11:12:38 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 11:12:53 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 11:12:54 [main] Log - Go to Register page
+[INFO ] 20-04-2022 11:12:55 [main] Log - Register account
+[INFO ] 20-04-2022 11:12:56 [main] Log - Go to Login page
+[INFO ] 20-04-2022 11:12:58 [main] Log - Login with created account
+[INFO ] 20-04-2022 11:12:59 [main] Log - Go to Book ticket page
+[INFO ] 20-04-2022 11:13:01 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 11:13:04 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 11:13:04 [main] Log - Go to Register page
+[INFO ] 20-04-2022 11:13:06 [main] Log - Register account
+[INFO ] 20-04-2022 11:13:06 [main] Log - Go to Login page
+[INFO ] 20-04-2022 11:13:08 [main] Log - Login with created account
+[INFO ] 20-04-2022 11:13:09 [main] Log - Go to Book ticket page
+[INFO ] 20-04-2022 11:13:11 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 11:13:14 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 11:13:14 [main] Log - Go to Register page
+[INFO ] 20-04-2022 11:13:16 [main] Log - Register account
+[INFO ] 20-04-2022 11:13:17 [main] Log - Go to Login page
+[INFO ] 20-04-2022 11:13:19 [main] Log - Login with created account
+[INFO ] 20-04-2022 11:13:19 [main] Log - Go to Book ticket page
+[INFO ] 20-04-2022 11:13:21 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 11:13:44 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 11:13:45 [main] Log - Go to Register page
+[INFO ] 20-04-2022 11:13:47 [main] Log - Register account
+[INFO ] 20-04-2022 11:13:48 [main] Log - Go to Login page
+[INFO ] 20-04-2022 11:13:49 [main] Log - Login with created account
+[INFO ] 20-04-2022 11:13:50 [main] Log - Go to Book ticket page
+[INFO ] 20-04-2022 11:13:52 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 11:13:54 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 11:13:55 [main] Log - Go to Register page
+[INFO ] 20-04-2022 11:13:57 [main] Log - Register account
+[INFO ] 20-04-2022 11:13:57 [main] Log - Go to Login page
+[INFO ] 20-04-2022 11:13:59 [main] Log - Login with created account
+[INFO ] 20-04-2022 11:14:00 [main] Log - Go to Book ticket page
+[INFO ] 20-04-2022 11:14:02 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 11:14:05 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 11:14:05 [main] Log - Go to Register page
+[INFO ] 20-04-2022 11:14:07 [main] Log - Register account
+[INFO ] 20-04-2022 11:14:07 [main] Log - Go to Login page
+[INFO ] 20-04-2022 11:14:09 [main] Log - Login with created account
+[INFO ] 20-04-2022 11:14:10 [main] Log - Go to Book ticket page
+[INFO ] 20-04-2022 11:14:12 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 11:14:41 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 11:14:42 [main] Log - Go to Register page
+[INFO ] 20-04-2022 11:14:43 [main] Log - Register account
+[INFO ] 20-04-2022 11:14:44 [main] Log - Go to Login page
+[INFO ] 20-04-2022 11:14:46 [main] Log - Login with created account
+[INFO ] 20-04-2022 11:14:47 [main] Log - Go to Book ticket page
+[INFO ] 20-04-2022 11:14:48 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 11:14:51 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 11:14:52 [main] Log - Go to Register page
+[INFO ] 20-04-2022 11:14:53 [main] Log - Register account
+[INFO ] 20-04-2022 11:14:54 [main] Log - Go to Login page
+[INFO ] 20-04-2022 11:14:56 [main] Log - Login with created account
+[INFO ] 20-04-2022 11:14:57 [main] Log - Go to Book ticket page
+[INFO ] 20-04-2022 11:14:58 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 11:15:01 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 11:15:02 [main] Log - Go to Register page
+[INFO ] 20-04-2022 11:15:03 [main] Log - Register account
+[INFO ] 20-04-2022 11:15:04 [main] Log - Go to Login page
+[INFO ] 20-04-2022 11:15:06 [main] Log - Login with created account
+[INFO ] 20-04-2022 11:15:07 [main] Log - Go to Book ticket page
+[INFO ] 20-04-2022 11:15:09 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 11:16:01 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 11:16:01 [main] Log - Go to Register page
+[INFO ] 20-04-2022 11:16:03 [main] Log - Register account
+[INFO ] 20-04-2022 11:16:04 [main] Log - Go to Login page
+[INFO ] 20-04-2022 11:16:05 [main] Log - Login with created account
+[INFO ] 20-04-2022 11:16:06 [main] Log - Go to Book ticket page
+[INFO ] 20-04-2022 11:16:07 [main] Log - Book a ticket with information of csv data
+[INFO ] 20-04-2022 11:16:25 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 11:16:28 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 11:16:29 [main] Log - Go to Register page
+[INFO ] 20-04-2022 11:16:30 [main] Log - Register account
+[INFO ] 20-04-2022 11:16:31 [main] Log - Go to Login page
+[INFO ] 20-04-2022 11:16:33 [main] Log - Login with created account
+[INFO ] 20-04-2022 11:16:33 [main] Log - Go to Book ticket page
+[INFO ] 20-04-2022 11:16:35 [main] Log - Book a ticket with information of csv data
+[INFO ] 20-04-2022 11:16:52 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 11:16:56 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 11:16:57 [main] Log - Go to Register page
+[INFO ] 20-04-2022 11:16:59 [main] Log - Register account
+[INFO ] 20-04-2022 11:16:59 [main] Log - Go to Login page
+[INFO ] 20-04-2022 11:17:01 [main] Log - Login with created account
+[INFO ] 20-04-2022 11:17:02 [main] Log - Go to Book ticket page
+[INFO ] 20-04-2022 11:17:04 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 11:17:19 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 11:17:19 [main] Log - Go to Register page
+[INFO ] 20-04-2022 11:17:21 [main] Log - Register account
+[INFO ] 20-04-2022 11:17:22 [main] Log - Go to Login page
+[INFO ] 20-04-2022 11:17:23 [main] Log - Login with created account
+[INFO ] 20-04-2022 11:17:24 [main] Log - Go to Book ticket page
+[INFO ] 20-04-2022 11:17:25 [main] Log - Book a ticket with information of csv data
+[INFO ] 20-04-2022 11:17:46 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 11:17:49 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 11:17:49 [main] Log - Go to Register page
+[INFO ] 20-04-2022 11:17:51 [main] Log - Register account
+[INFO ] 20-04-2022 11:17:52 [main] Log - Go to Login page
+[INFO ] 20-04-2022 11:17:54 [main] Log - Login with created account
+[INFO ] 20-04-2022 11:17:54 [main] Log - Go to Book ticket page
+[INFO ] 20-04-2022 11:17:56 [main] Log - Book a ticket with information of csv data
+[INFO ] 20-04-2022 11:18:17 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 11:18:20 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 11:18:20 [main] Log - Go to Register page
+[INFO ] 20-04-2022 11:18:22 [main] Log - Register account
+[INFO ] 20-04-2022 11:18:22 [main] Log - Go to Login page
+[INFO ] 20-04-2022 11:18:24 [main] Log - Login with created account
+[INFO ] 20-04-2022 11:18:25 [main] Log - Go to Book ticket page
+[INFO ] 20-04-2022 11:18:27 [main] Log - Book a ticket with information of csv data
+[INFO ] 20-04-2022 11:18:47 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 11:22:30 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 11:22:30 [main] Log - Go to Register page
+[INFO ] 20-04-2022 11:22:32 [main] Log - Register account
+[INFO ] 20-04-2022 11:22:33 [main] Log - Go to Login page
+[INFO ] 20-04-2022 11:22:34 [main] Log - Login with created account
+[INFO ] 20-04-2022 11:22:35 [main] Log - Go to Book ticket page
+[INFO ] 20-04-2022 11:22:37 [main] Log - Book a ticket with information of csv data
+[INFO ] 20-04-2022 11:22:57 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 11:23:00 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 11:23:01 [main] Log - Go to Register page
+[INFO ] 20-04-2022 11:23:02 [main] Log - Register account
+[INFO ] 20-04-2022 11:23:03 [main] Log - Go to Login page
+[INFO ] 20-04-2022 11:23:05 [main] Log - Login with created account
+[INFO ] 20-04-2022 11:23:05 [main] Log - Go to Book ticket page
+[INFO ] 20-04-2022 11:23:07 [main] Log - Book a ticket with information of csv data
+[INFO ] 20-04-2022 11:23:26 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 11:23:29 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 11:23:29 [main] Log - Go to Register page
+[INFO ] 20-04-2022 11:23:31 [main] Log - Register account
+[INFO ] 20-04-2022 11:23:32 [main] Log - Go to Login page
+[INFO ] 20-04-2022 11:23:33 [main] Log - Login with created account
+[INFO ] 20-04-2022 11:23:34 [main] Log - Go to Book ticket page
+[INFO ] 20-04-2022 11:23:36 [main] Log - Book a ticket with information of csv data
+[INFO ] 20-04-2022 11:23:54 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 11:34:29 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 11:34:29 [main] Log - Go to Register page
+[INFO ] 20-04-2022 11:34:31 [main] Log - Register account
+[INFO ] 20-04-2022 11:34:32 [main] Log - Go to Login page
+[INFO ] 20-04-2022 11:34:33 [main] Log - Login with created account
+[INFO ] 20-04-2022 11:34:34 [main] Log - Go to Book ticket page
+[INFO ] 20-04-2022 11:34:35 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 11:34:38 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 11:34:38 [main] Log - Go to Register page
+[INFO ] 20-04-2022 11:34:40 [main] Log - Register account
+[INFO ] 20-04-2022 11:34:40 [main] Log - Go to Login page
+[INFO ] 20-04-2022 11:34:42 [main] Log - Login with created account
+[INFO ] 20-04-2022 11:34:43 [main] Log - Go to Book ticket page
+[INFO ] 20-04-2022 11:34:44 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 11:34:47 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 11:34:47 [main] Log - Go to Register page
+[INFO ] 20-04-2022 11:34:49 [main] Log - Register account
+[INFO ] 20-04-2022 11:34:49 [main] Log - Go to Login page
+[INFO ] 20-04-2022 11:34:51 [main] Log - Login with created account
+[INFO ] 20-04-2022 11:34:52 [main] Log - Go to Book ticket page
+[INFO ] 20-04-2022 11:34:53 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 11:35:01 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 11:35:01 [main] Log - Go to Register page
+[INFO ] 20-04-2022 11:35:03 [main] Log - Register account
+[INFO ] 20-04-2022 11:35:04 [main] Log - Go to Login page
+[INFO ] 20-04-2022 11:35:05 [main] Log - Login with created account
+[INFO ] 20-04-2022 11:35:06 [main] Log - Go to Book ticket page
+[INFO ] 20-04-2022 11:35:07 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 11:35:10 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 11:35:10 [main] Log - Go to Register page
+[INFO ] 20-04-2022 11:35:12 [main] Log - Register account
+[INFO ] 20-04-2022 11:35:12 [main] Log - Go to Login page
+[INFO ] 20-04-2022 11:35:14 [main] Log - Login with created account
+[INFO ] 20-04-2022 11:35:15 [main] Log - Go to Book ticket page
+[INFO ] 20-04-2022 11:35:16 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 11:35:19 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 11:35:19 [main] Log - Go to Register page
+[INFO ] 20-04-2022 11:35:21 [main] Log - Register account
+[INFO ] 20-04-2022 11:35:21 [main] Log - Go to Login page
+[INFO ] 20-04-2022 11:35:23 [main] Log - Login with created account
+[INFO ] 20-04-2022 11:35:24 [main] Log - Go to Book ticket page
+[INFO ] 20-04-2022 11:35:25 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 11:35:49 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 11:35:50 [main] Log - Go to Register page
+[INFO ] 20-04-2022 11:35:51 [main] Log - Register account
+[INFO ] 20-04-2022 11:35:52 [main] Log - Go to Login page
+[INFO ] 20-04-2022 11:35:54 [main] Log - Login with created account
+[INFO ] 20-04-2022 11:35:55 [main] Log - Go to Book ticket page
+[INFO ] 20-04-2022 11:35:56 [main] Log - Book a ticket with information of csv data
+[INFO ] 20-04-2022 11:36:17 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 11:36:20 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 11:36:20 [main] Log - Go to Register page
+[INFO ] 20-04-2022 11:36:22 [main] Log - Register account
+[INFO ] 20-04-2022 11:36:22 [main] Log - Go to Login page
+[INFO ] 20-04-2022 11:36:24 [main] Log - Login with created account
+[INFO ] 20-04-2022 11:36:25 [main] Log - Go to Book ticket page
+[INFO ] 20-04-2022 11:36:27 [main] Log - Book a ticket with information of csv data
+[INFO ] 20-04-2022 11:36:47 [main] Log - Exit Railway Website
+[INFO ] 20-04-2022 11:36:50 [main] Log - Navigate to Railway Website
+[INFO ] 20-04-2022 11:36:51 [main] Log - Go to Register page
+[INFO ] 20-04-2022 11:36:52 [main] Log - Register account
+[INFO ] 20-04-2022 11:36:53 [main] Log - Go to Login page
+[INFO ] 20-04-2022 11:36:55 [main] Log - Login with created account
+[INFO ] 20-04-2022 11:36:55 [main] Log - Go to Book ticket page
+[INFO ] 20-04-2022 11:36:57 [main] Log - Book a ticket with information of csv data
+[INFO ] 20-04-2022 11:37:18 [main] Log - Exit Railway Website
