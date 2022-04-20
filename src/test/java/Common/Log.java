@@ -14,6 +14,5 @@ public class Log {
     public static void info (Object object) {
         Log.info(object);
     }
-
 }
 

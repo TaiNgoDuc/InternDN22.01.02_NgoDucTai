@@ -77,6 +77,8 @@ public class TC02 extends TestBase {
 
         bookTicketPage.bookTicket(departDate1, departFrom, arriveAt, seatType, ticketAmount);
 
+        Log.info("Book a ticket with information of csv data");
+
         Assert.assertEquals(actualMsg, expectedMsg);
 
         bookTicketPage.moveToBookTicketTab();
@@ -84,6 +86,8 @@ public class TC02 extends TestBase {
         Constant.DRIVER.navigate().refresh();
 
         bookTicketPage.bookTicket(departDate2, departFrom, arriveAt, seatType, ticketAmount);
+
+        Log.info("Book a ticket with information of csv data");
 
         Assert.assertEquals(actualMsg, expectedMsg);
 
@@ -93,6 +97,8 @@ public class TC02 extends TestBase {
 
         bookTicketPage.bookTicket(departDate3, departFrom, arriveAt, seatType, ticketAmount);
 
+        Log.info("Book a ticket with information of csv data");
+
         Assert.assertEquals(actualMsg, expectedMsg);
 
         bookTicketPage.moveToBookTicketTab();
@@ -100,6 +106,8 @@ public class TC02 extends TestBase {
         Constant.DRIVER.navigate().refresh();
 
         bookTicketPage.bookTicket(departDate4, departFrom, arriveAt, seatType, ticketAmount);
+
+        Log.info("Book a ticket with information of csv data");
 
         Assert.assertEquals(actualMsg, expectedMsg);
 
@@ -109,6 +117,8 @@ public class TC02 extends TestBase {
 
         bookTicketPage.bookTicket(departDate5, departFrom, arriveAt, seatType, ticketAmount);
 
+        Log.info("Book a ticket with information of csv data");
+
         Assert.assertEquals(actualMsg, expectedMsg);
 
         bookTicketPage.moveToBookTicketTab();
@@ -116,6 +126,8 @@ public class TC02 extends TestBase {
         Constant.DRIVER.navigate().refresh();
 
         bookTicketPage.bookTicket(departDate6, departFrom, arriveAt, seatType, ticketAmount);
+
+        Log.info("Book a ticket with information of csv data");
 
         Assert.assertEquals(actualMsg, expectedMsg);
 
@@ -127,7 +139,5 @@ public class TC02 extends TestBase {
         String expectedArriveStation = arriveAt;
 
         Assert.assertEquals(actualArriveStation, expectedArriveStation);
-
-
     }
 }

@@ -19,5 +19,4 @@ public class TicketPricePage extends BasePage {
 
     public void checkPrice() { getLnkCheckPrice().click();}
     public void bookSoftBed() { getLnkSoftBed().click();}
-
 }
